@@ -7,6 +7,7 @@ Dự án này là một hệ thống gợi ý phim sử dụng Python, Streamlit
 Model sử dụng **Cosine Similarity** để tính độ tương đồng giữa các phim dựa trên vector đặc trưng của chúng.
 
 Hệ thống gợi ý phim này sử dụng phương pháp **Content-Based Filtering**, dựa trên similarity giữa các đặc điểm của phim để đưa ra các gợi ý phim tương tự.
+
 ---
 
 ## Cài đặt
